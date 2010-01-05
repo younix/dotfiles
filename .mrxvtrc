@@ -1,0 +1,19 @@
+Mrxvt.loginShell:true
+Mrxvt.saveLines:10000
+Mrxvt.background:Black
+Mrxvt.foreground:Green
+Mrxvt.transparent:true
+Mrxvt.shading:70
+Mrxvt.scrollBar:false
+Mrxvt.showMenu:false
+Mrxvt.font:6x10
+Mrxvt.itabBackground:           #000000
+Mrxvt.tabBackground:            #000000
+Mrxvt.itabForeground:           #00ff00
+Mrxvt.tabForeground:            #ff0000
+Mrxvt.autohideTabbar:true
+Mrxvt.hideButtons:true
+Mrxvt.linuxHomeEndKey:true
+Mrxvt.color4:  #3465A4
+Mrxvt.color12: #204a87
+
