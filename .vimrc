@@ -8,6 +8,7 @@ set backspace=2
 set showmode
 set number
 set ruler
+set fileencoding=utf-8
 
 "map!  [1~
 "map!  [4~
