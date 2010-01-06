@@ -9,6 +9,8 @@ set showmode
 set number
 set ruler
 set fileencoding=utf-8
+set spell
+set spelllang=de
 
 "map!  [1~
 "map!  [4~
