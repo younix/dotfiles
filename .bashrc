@@ -29,6 +29,10 @@ export VISUAL="vim"
 export LANG="de_DE@euro"
 export LC_COLLATE="C"
 
+export PAGER="vimpager"
+export MANPAGER="vimmanpager"
+
+
 alias ll="ls -lh"
 alias l="ls -lha"
 alias ftp="ncftp"

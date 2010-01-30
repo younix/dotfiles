@@ -16,7 +16,7 @@ set ruler
 set fileencoding=utf-8
 
 " spellchecking
-set spell
+set nospell
 set spelllang=en
 
 map <S-PageDown> :tabnext<cr>
